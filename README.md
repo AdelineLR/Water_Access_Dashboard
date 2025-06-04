@@ -12,10 +12,10 @@
 ## Contexte 
 L'association Drinking Water For All (DWFA), une ONG fictive, a besoin d'un tableau de bord présentant une vue globale de l’accès à l’eau potable dans le monde. Celui-ci permettra de choisir le pays à cibler en fonction de 3 domaines d’expertise :
   1. Création de services d’accès à l’eau potable ;
-	2. Modernisation de services d’accès à l’eau déjà existants ;
-	3. Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau.
+  2. Modernisation de services d’accès à l’eau déjà existants ;
+  3. Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau.
 
-Pour ce projet, l'outil de data visualisation utilisé est Tableau Software. Le pré-traitement des données a été réalisé avec MySQL Worbench et la base de données MySQL a été connectée à Tableau via MySQL server.
+Pour ce projet, l'outil de data visualisation utilisé est Tableau Software. Le pré-traitement des données a été réalisé avec MySQL Workbench et la base de données MySQL a été connectée à Tableau via MySQL server.
 [Lien vers l'histoire sur Tableau Public](https://public.tableau.com/shared/ZP8PSK492?:display_count=n&:origin=viz_share_link)
 
 ## Données
