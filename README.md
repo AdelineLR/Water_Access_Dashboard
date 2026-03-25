@@ -31,7 +31,39 @@ Concevoir un **tableau de bord interactif et actionnable** permettant de :
 * Livraison d’un **tableau de bord synthétique et facile à utiliser**, permettant de prioriser les pays selon les objectifs stratégiques  
 * Le tableau de bord facilite l’**identification rapide des pays** nécessitant création, modernisation ou conseil  
 * Amélioration de l’**efficacité de la prise de décision** et méthode structurée pour une stratégie de financement **basée sur les données**
- 
+
+### Introduction
+<img width="1431" height="892" alt="Vue_introduction" src="https://github.com/user-attachments/assets/32cfde36-3253-49de-bb67-b8b728bcf5f8" />
+
+### Contexte
+<img width="1412" height="891" alt="Vue_Contexte" src="https://github.com/user-attachments/assets/73da08b6-fcd2-4412-9e6c-c1eeb163178b" />
+
+### Drinking Water For All
+Présentation de l'ONG et des différentes vues
+<img width="1427" height="896" alt="Vue_DrinkingWaterForAll" src="https://github.com/user-attachments/assets/a07cb3fc-77e4-4a72-8d0d-2a1edc5f9e07" />
+
+### Vue mondiale
+Visionglobale des indicateurs à l'échelle monde
+<img width="1417" height="896" alt="Vue Mondiale" src="https://github.com/user-attachments/assets/5fcc8471-b628-4295-b770-ea27996497a1" />
+
+### Vue par Région OMS
+Cette vue est dynamique et dépend du domaine d'expertise sélectionné. Les indicateurs sont présentés à l'échelle de la région OMS.
+* Création de service d'accès à l'eau
+<img width="1412" height="895" alt="Vue Region" src="https://github.com/user-attachments/assets/07ba0a7d-7e70-4047-9f10-86fc9802ad64" />
+* Modernisation des services d'accès à l'eau
+<img width="1403" height="886" alt="Vue Region 2" src="https://github.com/user-attachments/assets/52768cb3-3617-4b4b-b802-4ee7ef27225e" />
+* Consulting à propose des politiques d'accès à l'eau
+<img width="1407" height="883" alt="Vue Region 3" src="https://github.com/user-attachments/assets/f13f67eb-df28-4843-a93b-a1b5ede440b6" />
+
+### Vue par Pays
+Cette vue est dynamique et dépend du domaine d'expertise sélectionné. Les indicateurs sont présentés à l'échelle du pays.
+* Création de service d'accès à l'eau
+<img width="1407" height="888" alt="image" src="https://github.com/user-attachments/assets/c85335df-fc5b-48d1-b526-af4cd758a2f4" />
+* Modernisation des services d'accès à l'eau
+<img width="1407" height="882" alt="image" src="https://github.com/user-attachments/assets/9456e3e8-9a4f-42b2-ac65-b18354f9b064" />
+* Consulting à propose des politiques d'accès à l'eau
+<img width="1406" height="888" alt="image" src="https://github.com/user-attachments/assets/94308687-150a-425d-9dd9-dd997d3fb913" />
+
 ## Données
 * BasicAndSafelyManagedDrinkingWaterServices.csv : Données sur l'accès et la qualité des services à l'eau potable par pays [Source WHO](https://apps.who.int/gho/data/node.main.WSHWATER?lang=en)
 * MortalityRateAttributedToWater.csv : Données sur le taux de mortalité due à l'eau insalubre par pays [Source WHO](https://apps.who.int/gho/data/view.main.SDGWSHBOD392v?lang=en)
