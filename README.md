@@ -54,7 +54,7 @@ Cette vue est dynamique et dépend du domaine d'expertise sélectionné. Les ind
 2.  Modernisation des services d'accès à l'eau
 <img width="1403" height="886" alt="Vue Region 2" src="https://github.com/user-attachments/assets/52768cb3-3617-4b4b-b802-4ee7ef27225e" />
 
-3. Consulting à propose des politiques d'accès à l'eau
+3. Consulting à propos des politiques d'accès à l'eau
 <img width="1407" height="883" alt="Vue Region 3" src="https://github.com/user-attachments/assets/f13f67eb-df28-4843-a93b-a1b5ede440b6" />
 
 ### Vue par Pays
@@ -65,7 +65,7 @@ Cette vue est dynamique et dépend du domaine d'expertise sélectionné. Les ind
 2. Modernisation des services d'accès à l'eau
 <img width="1407" height="882" alt="image" src="https://github.com/user-attachments/assets/9456e3e8-9a4f-42b2-ac65-b18354f9b064" />
 
-3. Consulting à propose des politiques d'accès à l'eau
+3. Consulting à propos des politiques d'accès à l'eau
 <img width="1406" height="888" alt="image" src="https://github.com/user-attachments/assets/94308687-150a-425d-9dd9-dd997d3fb913" />
 
 ## Données
